@@ -1,0 +1,33 @@
+body {
+    margin-top: 50px;
+}
+.home {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-image: url(../img/backgroundd.jpg);
+    background-size: cover;
+}
+.home img {
+    width: 25%;
+}
+
+section {
+    min-height: 350px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
+.ig-thumbnail {
+    width: 100px;
+    height: 100px;
+    float: left;
+    overflow: hidden;
+}
+.ig-thumbnail img{
+    width: 100px;
+}
